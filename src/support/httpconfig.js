@@ -1,4 +1,4 @@
-
+﻿
 /**
  * 只接受三个参数：
  * serve -- 开发环境
@@ -56,8 +56,8 @@ const config = {
         // wpSiteUrl: 'http://192.168.105.240:8000',
         // wpSiteUrl: 'http://test.pinbayun.com',
         // wpSiteUrl: 'https://api.pinbayun.com',
-        // wpSiteUrl: 'http://off3_api.test.pinbayun.com',
-        wpSiteUrl: 'http://localhost:3000'
+         wpSiteUrl: 'http://39.105.87.176:3000',
+       // wpSiteUrl: 'http://localhost:3000'
         // wpSiteUrl: 'http://api.test.pinbayun.com',
         // wpSiteUrl: 'http://t2-api.test.pinbayun.com',
         // wpSiteUrl: 'http://sa-api.test.pinbayun.com',
